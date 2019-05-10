@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
+// Package manpagejp provides the fetch linuxjm.osdn.jp archives.
 package manpagejp // import "go.zchee.io/cmd/pkg/manpagejp"
 
 import (
